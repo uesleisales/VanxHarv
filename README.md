@@ -21,8 +21,19 @@
 ##### Essa arquitetura surgiu a partir do conceito de "Programa Armazenado" duarante o desenvolvimento do projeto EDVAC(Electronic Discrete Variable Automatic Computer) projetado para operar com números binário e manter programas armazenados na memória diferentemente do ENIAC que operava com base decimal e não fazia o armazenamento. Esse projeto foi dirigido por John Von Neumann e diversas outras pessoas que estavam envolvidas , porém , Jhon recebeu a maior parte dos créditos pois descreveu como o sistema deveria funcionar em um relatório de 101 páginas.
 ##### O esquema inicial de um computador com programa armazenado era dividido em cinco partes : Central Aritmética , Central de controle ,memória , gravação e entrada e saida .
 
-### Central Aritmética 
+### Central Aritmética (CA)
 ##### Nessa primeira parte foi descrito que o dispositivo deve ser capaz de realizar as operações básicas da aritmética como: subtrair , somar , dividir , verificar se o número é positivo , negativo ou igual a zero .Sendo assim é preciso que a máquina contenha unidades especializadas para executar tal função. A tecnologia utilizada para o desnevolvimento dessa central foi inicialmente relés, herança da telefonia, e posteriormente válvulas, herança da radiofonia. Com o aparecimento dos transistores, e depois dos circuitos integrados, os circuitos da unidade aritmética e lógica passaram a ser implementados com a tecnologia de semi-condutores. 
+
+### Central de Controle (CC)
+#####  A sequenciação apropriada das operações pode ser executada, de forma mais eficiente, por um controle central.
+
+### Terceira Parte
+
+### Memória (M) 
+##### A memória é necessária para executar sequências de instruções.Quanto mais longas e complexas essas instruções forem , maior também deve ser a capacidade da memória .
+
+### Gravação (R) 
+
 
 
 
