@@ -22,7 +22,7 @@
 ##### O esquema inicial de um computador com programa armazenado era dividido em cinco partes : Central Aritmética , Central de controle ,memória , gravação e entrada e saida .
 
 ### Central Aritmética 
-#### Nessa primeira parte foi descrito que o dispositivo deve ser capaz de realizar as operações básicas da aritmética como: subtrair , somar , dividir , verificar se o número é positivo , negativo ou igual a 0 .Sendo assim é preciso que a máquina contenha unidades especializadas para executar tal função. A tecnologia utilizada para o desnevolvimento dessa central foi inicialmente relés, herança da telefonia, e posteriormente válvulas, herança da radiofonia. Com o aparecimento dos transistores, e depois dos circuitos integrados, os circuitos da unidade aritmética e lógica passaram a ser implementados com a tecnologia de semi-condutores. 
+##### Nessa primeira parte foi descrito que o dispositivo deve ser capaz de realizar as operações básicas da aritmética como: subtrair , somar , dividir , verificar se o número é positivo , negativo ou igual a zero .Sendo assim é preciso que a máquina contenha unidades especializadas para executar tal função. A tecnologia utilizada para o desnevolvimento dessa central foi inicialmente relés, herança da telefonia, e posteriormente válvulas, herança da radiofonia. Com o aparecimento dos transistores, e depois dos circuitos integrados, os circuitos da unidade aritmética e lógica passaram a ser implementados com a tecnologia de semi-condutores. 
 
 
 
