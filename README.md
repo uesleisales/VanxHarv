@@ -19,7 +19,10 @@
 ### A arquitetura de Von Neumann 
 
 ##### Essa arquitetura surgiu a partir do conceito de "Programa Armazenado" duarante o desenvolvimento do projeto EDVAC(Electronic Discrete Variable Automatic Computer) projetado para operar com números binário e manter programas armazenados na memória diferentemente do ENIAC que operava com base decimal e não fazia o armazenamento. Esse projeto foi dirigido por John Von Neumann e diversas outras pessoas que estavam envolvidas , porém , Jhon recebeu a maior parte dos créditos pois descreveu como o sistema deveria funcionar em um relatório de 101 páginas.
-#### O esquema inicial de um computador com programa armazenado era dividido em cinco partes : Central de Controle , Central de Aritmética , memória , gravação e entrada e saida .
+##### O esquema inicial de um computador com programa armazenado era dividido em cinco partes : Central Aritmética , Central de controle ,memória , gravação e entrada e saida .
+
+### Central Aritmética : #### aa
+
 
 
 
