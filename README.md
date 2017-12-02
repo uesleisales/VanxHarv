@@ -27,12 +27,18 @@
 ### Central de Controle (CC)
 #####  A sequenciação apropriada das operações pode ser executada, de forma mais eficiente, por um controle central.
 
-### Terceira Parte
-
 ### Memória (M) 
 ##### A memória é necessária para executar sequências de instruções.Quanto mais longas e complexas essas instruções forem , maior também deve ser a capacidade da memória .
 
 ### Gravação (R) 
+
+#### Deve ser capaz de manter contato com a entrada e saida , que são como os neurônios correspondentes sensoriais e motores do cerébro humano .
+
+### Input 
+#### É necessário ter unidades para transferência das informações de Gravação para a a Memória.
+
+### Output 
+### É necessário ter unidades de tranferência para transferência de informações da Memória para Gravação . 
 
 
 
