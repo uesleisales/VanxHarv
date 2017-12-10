@@ -38,7 +38,10 @@
 #### É necessário ter unidades para transferência das informações de Gravação para a a Memória.
 
 ### Output 
-### É necessário ter unidades de tranferência para transferência de informações da Memória para Gravação . 
+#### É necessário ter unidades de tranferência para transferência de informações da Memória para Gravação . 
+
+
+#### Cada um desses elementos  são operados por componentes físicos que estão evoluindo ao longo do tempo desde os Relés electromagnéticos aos semicondutores .A variação física desses componentes influênciam em todos os processos das operações realizadas no computador , o que é algo bastante importante e o motivo de diversos estudos até hoje já a velocidade de processamento e quantidade de armazenamento precisam ser maiores a cada dia que passa .     
 
 
 
