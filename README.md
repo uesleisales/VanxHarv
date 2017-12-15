@@ -3,7 +3,7 @@
 ##### Curso : Ciência da Computação 
 ##### Matéria : Organização e Arquitetura de Computadores 
 
-## Arquitetura de Von Neumann vs Arquitetura de Harvard :resenha 
+## Arquitetura de Von Neumann vs Arquitetura de Harvard
 
 ### Tópicos Abordados.
 #### 1   - A arquitetura de Von Neumann 
@@ -44,8 +44,6 @@
 #### Cada um desses elementos  são operados por componentes físicos que estão evoluindo ao longo do tempo desde os Relés electromagnéticos aos semicondutores .A variação física desses componentes influênciam em todos os processos das operações realizadas no computador , o que é algo bastante importante e o motivo de diversos estudos até hoje já a velocidade de processamento e quantidade de armazenamento precisam ser maiores a cada dia que passa .     
 
 
+### Vantagens e desvantagens 
 
-
-
-
-
+#### Essa arquitetura no geral possui um modelo menos complexos no ponto de vista de implementação apesar de fazer o armazenamento de dados e gerênciar o como as instruções do processador devem se comportar. Atualmente a maioria das CPUs utilizam essa arquitetura, porém é comum encontrar partes que se baseam em outros tipos como a de Harvard .
