@@ -51,4 +51,4 @@
 
 ## A Arquitetura de Harvard
 
-#### O objetivo principal da criação dessa arquitetura foi o de aumentar de uma maneira significativa o desempenho do Microprocessador. O seu diferencial está na divisão dos barramentos de dados pertencente as memórias onde as instruções estão armazenadas e das memórias de dados . 
+#### O objetivo principal da criação dessa arquitetura foi o de aumentar de uma maneira significativa o desempenho do Microprocessador. O seu diferencial está na divisão dos barramentos de dados pertencente as memórias onde as instruções estão armazenadas e das memórias de dados . Sua utilização principal se dá em sistemas de uso bastante específicos como os DSP  
