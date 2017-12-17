@@ -47,3 +47,8 @@
 ### Vantagens e desvantagens 
 
 #### Essa arquitetura no geral possui um modelo menos complexos no ponto de vista de implementação apesar de fazer o armazenamento de dados e gerênciar como as instruções do processador devem se comportar. Atualmente a maioria das CPUs utilizam essa arquitetura, porém é comum encontrar partes que se baseam em outros tipos como a de Harvard . Mais vale ressaltar que em comparação com a arquitetura de Harvard ela é mais lenta pois o acesso aos dados na memória não é simultâneo .
+
+
+## A Arquitetura de Harvard
+
+#### O objetivo principal na criação dessa arquitetura foi o de 
