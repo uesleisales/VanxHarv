@@ -50,7 +50,9 @@
 
 ## Von Neumann ou Harvard ?
 
-#### A diferença principal entre as duas arquiteturas é que a de Harvard faz uma separação do local onde os dados são armazenados , comportamento do processador e armazenamento dos dados enquanto a de Jhon faz a utilização de um mesmo espaço para o armazenamento dessas informações 
+#### A diferença principal entre as duas arquiteturas é que a de Harvard faz a separação do local de armazenamento , comportamento do processador e dos dados enquanto a de Jhon faz a utilização do mesmo local de memória para realizar esses processos. Com isso podemos citar algumas vantagens e desvantagens na utilização delas :
+#### Na de Jhon os dados e instruções são movimentados á partir de um único barramento , acarretando assim em alguns problemas de lentidão durante os processos . Já na de Harvard isso não ocorre pois o caminho onde cada um deles são transportados estão em locais diferentes . 
+
 
 
 
