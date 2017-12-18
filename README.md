@@ -12,7 +12,7 @@
 
 ### Introdução
 
-##### Nesse artigo será aprensentado os modelos, vantagens e desvantagens em se utilizar a arquitetura de Von Neumann ou a Arquitetura de Harvard . Também será mostrado um pouco da história de cada uma delas e principais realidades de aplicação. Cada uma dessas arquiteturas trabalha com diferentes modelos de organização visando melhorar a eficiência das máquinas dependendo da sua finalidade. Do ponto de vista de padronização pode-se afirmar que a maioria dos computadores atuais baseam-se na arquitetura de Von Neumann que se basea no principio de que é possível armazenar um programa na mesma memória de dados
+##### Nesse documento será aprensentado os modelos, vantagens e desvantagens em se utilizar a arquitetura de Von Neumann ou a Arquitetura de Harvard . Também será mostrado um pouco da história de cada uma delas e principais realidades de aplicação. Cada uma dessas arquiteturas trabalha com diferentes modelos de organização visando melhorar a eficiência das máquinas dependendo da sua finalidade. Do ponto de vista de padronização pode-se afirmar que a maioria dos computadores atuais baseam-se na arquitetura de Von Neumann que se basea no principio de que é possível armazenar um programa na mesma memória de dados
 
 ## A Arquitetura de Von Neumann 
 
@@ -47,6 +47,7 @@
 #### A projeção dessa arquitetura aconteceu durante o período da 2ª guerra mundial onde seria aplicada ao Harvard Mark 1 desenvolvido entre as décadas de 30 e 40 sendo conhecido como o primeiro computador . Para que esse projeto fosse realizado foi preciso o apoio de alguns orgão e empresas de grande porte como por exemplo: A IBM e a marinha dos Estados Unidos . Por alguns anos a Arquitetura de Harvard ficou estacionada em questo de desenvolvimento e aplicação porém na década de 70 voltou a ativa.
 #### O objetivo principal de sua criação foi o de aumentar de uma maneira significativa o desempenho do Microprocessador. O seu diferencial está na divisão dos barramentos de dados pertencente as memórias onde as instruções estão armazenadas e das memórias de dados . Sua utilização principal se dá em sistemas de uso bastante específicos como os DSP (specialized digital signal processing) . Ela também é bastante utilizada em microprocessadores pequenos que são aplicados em sistemas eletrônicos . 
 
+## Von Neumann ou Harvard ?
 
 
 
