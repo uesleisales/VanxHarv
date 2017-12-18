@@ -44,10 +44,13 @@
 
 
 ## A Arquitetura de Harvard
+
 #### A projeção dessa arquitetura aconteceu durante o período da 2ª guerra mundial onde seria aplicada ao Harvard Mark 1 desenvolvido entre as décadas de 30 e 40 sendo conhecido como o primeiro computador . Para que esse projeto fosse realizado foi preciso o apoio de alguns orgão e empresas de grande porte como por exemplo: A IBM e a marinha dos Estados Unidos . Por alguns anos a Arquitetura de Harvard ficou estacionada em questo de desenvolvimento e aplicação porém na década de 70 voltou a ativa.
 #### O objetivo principal de sua criação foi o de aumentar de uma maneira significativa o desempenho do Microprocessador. O seu diferencial está na divisão dos barramentos de dados pertencente as memórias onde as instruções estão armazenadas e das memórias de dados . Sua utilização principal se dá em sistemas de uso bastante específicos como os DSP (specialized digital signal processing) . Ela também é bastante utilizada em microprocessadores pequenos que são aplicados em sistemas eletrônicos . 
 
 ## Von Neumann ou Harvard ?
+
+#### A diferença principal entre as duas arquiteturas é que a de Harvard faz uma separação do local onde os dados são armazenados , comportamento do processador e armazenamento dos dados enquanto a de Jhon faz a utilização de um mesmo espaço para o armazenamento dessas informações 
 
 
 
