@@ -7,9 +7,7 @@
 
 ### Tópicos Abordados.
 #### 1   - A arquitetura de Von Neumann 
-#### 1.1 - Vantagens e desvantagens de sua utilização
 #### 2   - A arquitetura de Harvard
-#### 2.1 - Vantagens e desvantagens de sua utilização
 #### 3   - Von Neumann ou Harvard ?
 
 ### Introdução
@@ -42,15 +40,14 @@
 
 
 #### Cada um desses elementos  são operados por componentes físicos que estão evoluindo ao longo do tempo desde os Relés electromagnéticos aos semicondutores .A variação física desses componentes influênciam em todos os processos das operações realizadas no computador , o que é algo bastante importante e o motivo de diversos estudos até hoje já a velocidade de processamento e quantidade de armazenamento precisam ser maiores a cada dia que passa .     
-
-
-### Vantagens e desvantagens 
-
 #### Essa arquitetura no geral possui um modelo menos complexos no ponto de vista de implementação apesar de fazer o armazenamento de dados e gerênciar como as instruções do processador devem se comportar. Atualmente grande parte das CPUs utilizam essa arquitetura, porém é comum encontrar partes que se baseam em outros tipos como a de Harvard . Mais vale ressaltar que em comparação com a arquitetura de Harvard ela é mais lenta pois o acesso aos dados na memória não é simultâneo .
 
 
 ## A Arquitetura de Harvard
 #### A projeção dessa arquitetura aconteceu durante o período da 2ª guerra mundial onde seria aplicada ao Harvard Mark 1 desenvolvido entre as décadas de 30 e 40 sendo conhecido como o primeiro computador . Para que esse projeto fosse realizado foi preciso o apoio de alguns orgão e empresas de grande porte como por exemplo: A IBM e a marinha dos Estados Unidos . Por alguns anos a Arquitetura de Harvard ficou estacionada em questo de desenvolvimento e aplicação porém na década de 70 voltou a ativa.
 #### O objetivo principal de sua criação foi o de aumentar de uma maneira significativa o desempenho do Microprocessador. O seu diferencial está na divisão dos barramentos de dados pertencente as memórias onde as instruções estão armazenadas e das memórias de dados . Sua utilização principal se dá em sistemas de uso bastante específicos como os DSP (specialized digital signal processing) . Ela também é bastante utilizada em microprocessadores pequenos que são aplicados em sistemas eletrônicos . 
+
+
+
 
 
