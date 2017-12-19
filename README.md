@@ -51,7 +51,7 @@
 ## Von Neumann ou Harvard ?
 
 #### A diferença principal entre as duas arquiteturas é que a de Harvard faz a separação do local de armazenamento , comportamento do processador e dos dados enquanto a de Jhon faz a utilização do mesmo local de memória para realizar esses processos. Com isso podemos citar algumas vantagens e desvantagens na utilização delas :
-#### Na de Jhon os dados e instruções são movimentados á partir de um único barramento , acarretando assim em alguns problemas de lentidão durante os processos . Já na de Harvard isso não ocorre pois o caminho onde cada um deles são transportados estão em locais diferentes . 
+#### Na de Jhon os dados e instruções são movimentados á partir de um único barramento , acarretando assim em alguns problemas de lentidão durante os processos . Já na de Harvard isso não ocorre pois o caminho onde cada um deles são transportados estão em locais diferentes . Podemos concluir que do ponto de vista de desempenho a de Harvard tem uma grande vantagem em comparação com a de Von Neumann , porém como já foi dito , ela tem uma aplicação de maior escala em sistemas específicos , porém não deixa de estar presente em diversas projetos de larga escala . Apesar dessas conclusões não significa que a de Von Neumann seja uma má arquitetura , pois se fosse por isso não seria a mais usada em todo mundo , ressaltando que a questão de custos de produção e complexidade são fatores fundamentais para a aplicação e é exatamente essa "simplicidade" que torna essa arquitetura bastante acessivel . 
 
 
 
