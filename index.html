@@ -143,17 +143,21 @@ p {
   
   <div class="document">
     
-    <h1>Look, a big ol' curly brace!</h1>
+    <h1>A Arquitetura de Von Neumann</h1>
     
     <hr class="brace">
     
     <div class="document__content">
       
-      <p>Have you ever wanted to aesthetically group together multiple elements on a page? Have you ever wanted to look classy while you do it? Now you can!</p>
-      
-      <p>This curly brace uses radial gradient background images to create the "v" at the center of the element, and then :before and :after pseudo selectors to create the branches.</p>
-      
-      <p>Try resizing the window to see how the brace will resize with it! The best part is that it only requires one element, and it doesn't interfere with any text you place inside. Personally, I like to use it for the &lt;hr&gt; element.</p>
+      <p>Essa arquitetura surgiu a partir do conceito de "Programa Armazenado" durante o desenvolvimento do projeto EDVAC, 
+        projetado para operar com números binário e manter programas armazenados na memória , 
+        diferentemente do ENIAC que operava com base decimal e não fazia o armazenamento. Para fazer qualquer
+        alteração em um programa desenvolvido no ENIAC era preciso muito tempo e isso se tornava algo bastante 
+        complicado e acabava se tornando inviável , pois o tempo era um fator bastante importante já que a finalidade da 
+        máquina era operar para fins da guerra. Diante dessa situação , John Von Neumann e diversas outras pessoas começaram a 
+        trabalhar no projeto do EDVAC. Apesar de muita gente está envolvida na construção dessa máquina, Jhon recebeu a maior parte
+        dos créditos pois descreveu como o sistema deveria funcionar em um relatório de 101 páginas.
+        O esquema inicial de um computador com programa armazenado era dividido em cinco partes : Central Aritmética , Central de controle ,memória , gravação e entrada e saída .</p>
       
     </div>
     
@@ -167,17 +171,127 @@ p {
   
   <div class="document">
     
-    <h1>Look, a big ol' curly brace!</h1>
+    <h2>Central Aritmética (CA)</h2>
     
     <hr class="brace">
     
     <div class="document__content">
       
-      <p>Have you ever wanted to aesthetically group together multiple elements on a page? Have you ever wanted to look classy while you do it? Now you can!</p>
+      <p>Nessa primeira parte foi descrito que o dispositivo deve ser capaz 
+        de realizar as operações básicas da aritmética como: subtrair , somar , dividir ,
+        verificar se o número é positivo , negativo ou igual a zero .Sendo assim é preciso que a máquina contenha 
+        unidades especializadas para executar tal função. A tecnologia utilizada para o desenvolvimento dessa central foi 
+        inicialmente relés, herança da telefonia, e posteriormente válvulas, herança da radiofonia. Com o aparecimento dos transistores, e depois dos circuitos integrados, os circuitos da unidade aritmética e l
+        ógica passaram a ser implementados com a tecnologia de semicondutores.</p>
       
-      <p>This curly brace uses radial gradient background images to create the "v" at the center of the element, and then :before and :after pseudo selectors to create the branches.</p>
+    </div>
+    
+  </div>
+  
+</div>
+  
+  
+ <div class="container">
+  
+  <div class="document">
+    
+    <h2>Central de Controle (CC)</h2>
+    
+    <hr class="brace">
+    
+    <div class="document__content">
       
-      <p>Try resizing the window to see how the brace will resize with it! The best part is that it only requires one element, and it doesn't interfere with any text you place inside. Personally, I like to use it for the &lt;hr&gt; element.</p>
+      <p>A sequenciação apropriada das operações pode ser executada, de forma mais 
+        eficiente, por um controle central. Através desse controle é feito o gerenciamento do sistema e de todo 
+        o fluxo de dados presente nele . Com isso toda essa informação é ordenada e controlada pela mesm</p>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  
+  
+ 
+<div class="container">
+  
+  <div class="document">
+    
+    <h2>Memória (M)</h2>
+    
+    <hr class="brace">
+    
+    <div class="document__content">
+      
+      <p>A memória é necessária para executar sequências de instruções.Quanto mais longas e complexas
+        essas instruções forem , maior também deve ser a capacidade da memória .</p>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  
+  
+<div class="container">
+  
+  <div class="document">
+    
+    <h2>Gravação (R)</h2>
+    
+    <hr class="brace">
+    
+    <div class="document__content">
+      
+      <p>Deve ser capaz de manter contato com a entrada e saída , que são como os
+        neurônios correspondentes sensoriais e motores do cerébro humano .</p>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  
+<div class="container">
+  
+  <div class="document">
+    
+    <h2>Input</h2>
+    
+    <hr class="brace">
+    
+    <div class="document__content">
+      
+      <p>É necessário ter unidades para transferência das informações de Gravação para a a Memória.</p>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  
+  
+<div class="container">
+  
+  <div class="document">
+    
+    <h2>Input</h2>
+    
+    <hr class="brace">
+    
+    <div class="document__content">
+      
+      <p>É necessário ter unidades que transfiram as informações da Memória para Gravação .
+        Cada um desses elementos são operados por componentes físicos que estão evoluindo ao longo do tempo 
+        desde os Relés electromagnéticos aos semicondutores .A variação física desses componentes influênciam
+        em todos os processos das operações realizadas no computador , o que é algo bastante importante e o 
+        motivo de diversos estudos até hoje já a velocidade de processamento e quantidade de armazenamento
+        precisam ser maiores a cada dia que passa .
+        Essa arquitetura no geral possui um modelo menos complexos no ponto de vista de implementação apesar 
+        de fazer o armazenamento de dados e gerênciar como as instruções do processador devem se comportar. 
+        Atualmente grande parte das CPUs utilizam essa arquitetura, porém é comum encontrar partes que se baseam 
+        em outros tipos como a de Harvard . Mais vale ressaltar que em comparação com a arquitetura de Harvard ela é 
+        mais lenta pois o acesso aos dados na memória não é simultâneo .</p>
       
     </div>
     
